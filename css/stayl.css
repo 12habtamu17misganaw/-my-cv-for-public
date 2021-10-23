@@ -336,14 +336,14 @@ textarea {
  }
 
  /* mobil*/
- @media (max-width: 768px) {
+ @media (max-width: 500px) {
     .contact-left {
         flex-basis: 100%;
         padding: 40px 60px;
         font-size: 20px;
      }
      .contact-right {
-        flex-basis: 40%;
+        flex-basis: 100%;
         padding: 40px 60px;
         background: blue;
         color: white;
