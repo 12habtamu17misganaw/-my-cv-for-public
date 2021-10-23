@@ -336,7 +336,7 @@ textarea {
  }
 
  /* mobil*/
- @media (max-width: 500px) {
+ @media (max-width: 1000px) {
     .contact-left {
         flex-basis: 100%;
         padding: 40px 60px;
