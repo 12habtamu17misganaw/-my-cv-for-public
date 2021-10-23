@@ -67,3 +67,18 @@ footer .h2-5 {
     font-size: 35px;
 }
 
+@media (max-width: 1000px) {
+    .our-instrument .card-me-1 .img-me-1 {
+        width: 30px;
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        width: 25%;
+
+    }
+    .our-instrument .para {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+}
+
