@@ -335,5 +335,11 @@ textarea {
      font-weight: bold;
  }
 
- /* mobil*/
+ 
+/* mobil*/
+ @media (max-width: 1000px) {
+    .about-me {
+       padding-left: 20px;
+    }
+}
   
