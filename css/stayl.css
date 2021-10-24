@@ -339,7 +339,42 @@ textarea {
 /* mobil*/
  @media (max-width: 1000px) {
     .about-me {
-       padding-left: 20px;
+       padding-left: 40px;
     }
+     .service-me .service-me-row {
+        padding-left: 20px;
+    }
+      .service-me .h2-3 {
+        padding-left: 40px;
+    }
+    .service-me .h5-1 {
+        padding-left: 40px;
+    }
+    .service-me .p-s-1 {
+        padding-left: 40px;
+    }
+    .black-body {
+        width: 100%;
+        padding-left: 30px;
+    }
+   .titel-img .titel-img-1 {
+        padding-left: 0px;
+        margin-left: 20px;
+    }
+    .titel-img .titel-img-1 .h1-1 {
+        font-size: 30px;
+    }
+    .titel-img .titel-img-1 .b-1 {
+        margin-bottom: 20px;
+    }
+    .about-me .card-body .b-3 {
+        margin-bottom: 20px;
+        margin-left: 5px;
+        padding-left: 3px;
+        box-sizing: 10px;
+        text-align: center;
+    }
+     
+}
 }
   
